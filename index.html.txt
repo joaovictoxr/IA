@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Confere Aí</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <header>
+        <h1>Confere Aí</h1>
+        <p>Informação de qualidade para você ficar por dentro!</p>
+    </header>
+
+    <main>
+        <h2>Notícias em destaque</h2>
+
+        <section class="noticias">
+
+            <!-- CARD 1 -->
+            <div class="card">
+                <div class="card-interno">
+
+                    <div class="card-frente">
+                        <div class="icone">📰</div>
+                        <h3>Tecnologia</h3>
+                        <p>Novidades do mundo da tecnologia</p>
+                        <span>Passe o mouse para saber mais</span>
+                    </div>
+
+                    <div class="card-verso">
+                        <h3>Tecnologia</h3>
+                        <p>
+                            A tecnologia está cada vez mais presente
+                            no nosso dia a dia, facilitando estudos,
+                            comunicação e diversas atividades.
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- CARD 2 -->
+            <div class="card">
+                <div class="card-interno">
+
+                    <div class="card-frente">
+                        <div class="icone">🌎</div>
+                        <h3>Meio Ambiente</h3>
+                        <p>Informação para cuidar do nosso planeta</p>
+                        <span>Passe o mouse para saber mais</span>
+                    </div>
+
+                    <div class="card-verso">
+                        <h3>Meio Ambiente</h3>
+                        <p>
+                            A preservação ambiental depende de atitudes
+                            responsáveis, como reduzir o desperdício,
+                            reciclar e preservar os recursos naturais.
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- CARD 3 -->
+            <div class="card">
+                <div class="card-interno">
+
+                    <div class="card-frente">
+                        <div class="icone">🎓</div>
+                        <h3>Educação</h3>
+                        <p>Conhecimento transforma oportunidades</p>
+                        <span>Passe o mouse para saber mais</span>
+                    </div>
+
+                    <div class="card-verso">
+                        <h3>Educação</h3>
+                        <p>
+                            A educação contribui para o desenvolvimento
+                            pessoal e profissional, ampliando o acesso
+                            ao conhecimento e a novas oportunidades.
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+
+            <!-- CARD 4 -->
+            <div class="card">
+                <div class="card-interno">
+
+                    <div class="card-frente">
+                        <div class="icone">🔎</div>
+                        <h3>Informação</h3>
+                        <p>Confira antes de compartilhar</p>
+                        <span>Passe o mouse para saber mais</span>
+                    </div>
+
+                    <div class="card-verso">
+                        <h3>Confere Aí!</h3>
+                        <p>
+                            Antes de compartilhar uma notícia,
+                            verifique a fonte, a data e procure
+                            informações em fontes confiáveis.
+                        </p>
+                    </div>
+
+                </div>
+            </div>
+
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2026 Confere Aí - Projeto escolar</p>
+    </footer>
+
+</body>
+</html>
